@@ -12,6 +12,10 @@ A central hub that connects to multiple downstream MCP servers, aggregates their
 
 > Built around **deferred tool loading** — search across all your servers without blowing Claude's context window.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/rupinder2-mcp-orchestrator).
+
 ## Features
 
 - **Config-based Server Registration**: Add downstream MCP servers via JSON config file
